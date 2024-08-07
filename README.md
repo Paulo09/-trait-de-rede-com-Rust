@@ -1,5 +1,5 @@
 
-                                                                   Trait de Rede - Rust
+                                                Trait de Rede - Rust
                                                                        
 
 Crie um novo arquivo chamado "it.rs" e adicione a seguinte estrutura:
